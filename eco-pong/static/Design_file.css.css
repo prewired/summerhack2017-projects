@@ -1,0 +1,104 @@
+h1 {
+font-family:none;
+}
+.selection_button {
+    background-color: #ff6600;
+    border-style: solid;
+	border-color: #white #white;
+    color: #ffffff;
+    padding: 0px 0px;
+    text-align: top;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+}
+
+.selected_button {
+    background-color: #ffff00;
+    border-style: solid;
+	border-color: #white #white;
+    color: #ffffff;
+    padding: 0px 0px;
+    text-align: top;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+}
+
+.selection_button:link {
+    background-color: #ff6600;
+    border-style: solid;
+	border-color: #white #white;
+    color: #ffffff;
+    padding: 0px 0px;
+    text-align: top;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+}
+.selection_button:visited {
+    background-color: #ff6600;
+    border-style: solid;
+	border-color: #white #white;
+    color: #ffffff;
+    padding: 0px 0px;
+    text-align: top;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+}
+.selection_button:hover {
+    background-color: #ffff00;
+    border-style: solid;
+	border-color: #white #white;
+    color: #ffffff;
+    padding: 0px 0px;
+    text-align: top;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+}
+#Go_Button {
+    background-color: #ff6600;
+    border-style: solid;
+	border-color: #ffffff #ffffff;
+    color: #ffffff;
+    padding: 0px 0px;
+    text-align: top;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+}
+#Go_Button:link {
+    background-color: #ff6600;
+    border-style: solid;
+	border-color: #ffffff #ffffff;
+    color: #ffffff;
+    padding: 0px 0px;
+    text-align: top;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+}
+#Go_Button:visited {
+    background-color: #ff6600;
+    border-style: solid;
+	border-color: #ffffff #ffffff;
+    color: #ffffff;
+    padding: 0px 0px;
+    text-align: top;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+}
+#Go_Button:hover {
+    background-color: #ffff00;
+    border-style: solid;
+	border-color: #ffffff #ffffff;
+    color: #ffffff;
+    padding: 0px 0px;
+    text-align: top;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+}
